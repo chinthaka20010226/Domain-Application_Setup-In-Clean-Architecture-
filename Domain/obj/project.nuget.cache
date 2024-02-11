@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hIOG8jdBkb6C/XHQ+BHeccvinOCRrRBdwXBShJJ4yo/yiFu2x1V0AFKIa4/8BQBjfUU0mI9tR+SRd8XmLHGOHg==",
+  "dgSpecHash": "BiU+i90D0kjyACH61zGTD2jPswyJZT75AGsIJhxq6FFDCX5mAisfIMGMKG4QX0G6roL6ukV4tvxo4NVmasIk1A==",
   "success": true,
-  "projectFilePath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\RunTracker\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

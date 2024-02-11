@@ -12,21 +12,19 @@ public record Sku
 
     private Sku(string value) => Value = value;
 
-    // init -> The init accessor indicates that this property can only be set during object initialization,
-    // making the Sku class immutable after creation.
+    // init -> only set value during object initialization -> immutable
     public string Value { get; init; }
 
-    // Sku? -> nullable
-    public static Sku? Create(string value)
+    public static Sku? Create(String Value)
     {
-        if (string.IsNullOrEmpty(value))
+        if (string.IsNullOrEmpty(Value))
         {
             return null;
         }
-        if(value.Length != DefaultLength)
+        if(Value.Length !=  DefaultLength)
         {
             return null;
         }
-        return new Sku(value);
+        return new Sku(Value);
     }
 }
