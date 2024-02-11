@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "BiU+i90D0kjyACH61zGTD2jPswyJZT75AGsIJhxq6FFDCX5mAisfIMGMKG4QX0G6roL6ukV4tvxo4NVmasIk1A==",
+  "dgSpecHash": "gK2k9nScmaLzZITWI+rRBeNUI+6Od6LvvZUF7JiNIBI4BmV2u2ze/7EsGouwUdS62MVnoN831U1CFSj6DdbgGg==",
   "success": true,
   "projectFilePath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
