@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Wjx/4w6dGxS5rcMXTx2/jm887NIMVLPPHuIOfERkFZbCX6p3VWQkr79ohNz3flnj6J6oagOHnUd0YWDKADhrg==",
+  "dgSpecHash": "jtF+hDHJ349ZNN0JUVCsMsm+yloU9S0ie1FzQ7ZCbKvuXQrhnqyzvggX5Uo+oBfjVbNdwLsD3jnKF3hih9HnOQ==",
   "success": true,
-  "projectFilePath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Persistance\\Persistance.csproj",
+  "projectFilePath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Persistance\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\efcore.namingconventions\\7.0.2\\efcore.namingconventions.7.0.2.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",

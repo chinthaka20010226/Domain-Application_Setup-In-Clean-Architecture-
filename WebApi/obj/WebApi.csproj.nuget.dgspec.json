@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\WebApi\\WebApi.csproj": {}
+    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Application\\Application.csproj": {
+    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Application\\Application.csproj",
+        "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Application\\obj\\",
+        "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Domain\\Domain.csproj"
+              "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Domain\\Domain.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Domain\\Domain.csproj": {
+    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Domain\\Domain.csproj",
+        "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Domain\\obj\\",
+        "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -138,14 +138,14 @@
         }
       }
     },
-    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\WebApi\\WebApi.csproj": {
+    "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\WebApi\\WebApi.csproj",
+        "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\WebApi\\obj\\",
+        "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -162,8 +162,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Application\\Application.csproj": {
-                "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Application\\Application.csproj"
+              "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Application\\Application.csproj": {
+                "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Application\\Application.csproj"
               }
             }
           }
@@ -178,9 +178,23 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Carter": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",

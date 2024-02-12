@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Persistance\\Persistance.csproj",
-      "projectName": "Persistance",
-      "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Persistance\\Persistance.csproj",
+      "projectUniqueName": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Persistance\\Persistence.csproj",
+      "projectName": "Persistence",
+      "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Persistance\\Persistence.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Persistance\\obj\\",
+      "outputPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Persistance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -729,8 +729,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Domain\\Domain.csproj"
+            "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Domain\\Domain.csproj"
             }
           }
         }

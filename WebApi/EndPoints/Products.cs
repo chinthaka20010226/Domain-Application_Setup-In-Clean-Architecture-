@@ -1,5 +1,6 @@
-﻿using Application.Product.Create;
+﻿using Application.Products.Create;
 using Carter;
+using MediatR;
 
 namespace WebApi.EndPoints
 {
@@ -7,7 +8,7 @@ namespace WebApi.EndPoints
     {
         public void AddRoutes(IEndpointRouteBuilder app)
         {
-            app.MapPost("product", async (CreateProductCommand command, ISender sender) =>
+            app.MapPost("products", async (CreateProductCommand command, ISender sender) =>
             {
                 await sender.Send(command);
 

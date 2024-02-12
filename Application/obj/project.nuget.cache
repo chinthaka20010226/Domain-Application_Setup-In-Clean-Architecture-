@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FXmbYAnGVeKZ+8yuTS4hLEQ1JOmfnxXNSZagPDBahcgePEpjRLHG4MCoOO3FFBIpGxiofHhYczIZnrG/jhsN4w==",
+  "dgSpecHash": "fK1oKAQG8FlelSb++tRHx12dSIa8H5eSHXGfO3EB7nEffC4ZiclVeTZi9bRDKShDTe2nhGXh+mBuLbzKcX274Q==",
   "success": true,
-  "projectFilePath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eShop\\Application\\Application.csproj",
+  "projectFilePath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\Domain_Application_Setup\\eshop\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

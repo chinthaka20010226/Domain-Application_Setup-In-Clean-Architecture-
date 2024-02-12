@@ -1,8 +1,8 @@
-﻿using Domain.Product;
+﻿using Domain.Products;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace Persistance.Configuration
+namespace Persistence.Configurations
 {
     internal class ProductConfiguration : IEntityTypeConfiguration<Product>
     {
@@ -12,10 +12,10 @@ namespace Persistance.Configuration
 
             builder.Property(p => p.Id).HasConversion(
                 productId => productId.Value,
-                value => new ProductId(value)!);
+                value => new ProductId(value));
 
             builder.Property(p => p.Sku).HasConversion(
-                Sku => Sku.Value,
+                sku => sku.Value,
                 value => Sku.Create(value)!);
 
             builder.OwnsOne(p => p.Price, priceBuilder =>

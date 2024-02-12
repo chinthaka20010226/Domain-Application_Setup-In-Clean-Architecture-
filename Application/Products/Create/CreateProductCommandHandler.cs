@@ -1,17 +1,15 @@
 ﻿using Application.Data;
-using Domain.Product;
+using Domain.Products;
 using MediatR;
 
-namespace Application.Product.Create
+namespace Application.Products.Create
 {
-    public class CreateProductCommandHandler : IRequestHandler<CreateProductCommand>
+    internal class CreateProductCommandHandler : IRequestHandler<CreateProductCommand>
     {
         private readonly IProductRepository _productRepository;
         private readonly IUnitOfWork _unitOfWork;
 
-        public CreateProductCommandHandler(
-            IProductRepository productRepository,
-            IUnitOfWork unitOfWork)
+        public CreateProductCommandHandler(IProductRepository productRepository, IUnitOfWork unitOfWork)
         {
             _productRepository = productRepository;
             _unitOfWork = unitOfWork;
